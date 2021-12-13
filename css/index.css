@@ -1,0 +1,49 @@
+body,
+.wrapper {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  /* background-color: black; */
+  color: ;
+}
+
+/* .card-color{
+    background: #66fcf1;
+}
+.color-nav {
+  background-color: black;
+} */
+
+.mCard,
+.h2-common {
+  display: table;
+  margin: 1.5rem auto;
+}
+
+.m-form {
+  display: table;
+  margin: 0 auto;
+}
+
+.projectDet {
+  margin-top: 1rem;
+  text-align: center;
+}
+.m-list {
+  display: table;
+  margin: 0 auto;
+}
+
+.contributeForm,
+.view-requests {
+  display: table;
+  margin: 1rem auto;
+}
+
+.lgroupItem-k {
+  width: 25%;
+}
+
+.lgroupItem-v {
+  width: 75%;
+}
